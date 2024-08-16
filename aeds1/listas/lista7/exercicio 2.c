@@ -1,0 +1,3 @@
+//  p++: Após esta instrução, o ponteiro p passará a apontar para a posição de memória superior. Mesma coisa de "p + p".
+// - (*p)++: Incrementa o conteúdo apontado por p, ou seja, o valor armazenado na variável para qual p está apontando.
+// - *(p++): Incrementa p (como em p++) e acessa o valor encontrado na nova posição. Se em um vetor, esta expressão acessa o valor da posição imediatamente superior a armazenada em p antes do incremento.
